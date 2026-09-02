@@ -1,23 +1,16 @@
 #!/bin/bash
 
-# print current date
-# hostname and username
-# process
-# add process info inside a file name process.log
-
-# print name,roll_no, comment 
-
-## use variables, take input, create file and directory
-
 curr_date=$(date)
 hostname=$(hostname)
 username=$(whoami)
 
+
 read -p "Enter your name: " name
 read -p "Enter your roll number: " rollNumber
 read -p "Enter your comment: " comment
+echo
 
-mkdir process_info
+mkdir -p process_info
 cd process_info
 echo "$(ps -ef)" > process.log
 
@@ -27,9 +20,12 @@ echo "username: $username"
 
 df -h
 
+echo
 echo "Name: $name"
 echo "Roll Number: $rollNumber"
 echo "Comment: $comment"
+echo
 
 cat process.log
+echo
 
