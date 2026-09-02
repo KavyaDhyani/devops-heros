@@ -2,9 +2,9 @@
 - soft links point to the filename/path of the target object while hard links point to their inodes
 - soft links break if the original object is deleted while hard links retain original data
 
-** soft link :** ln -s target linkName
+**soft link :** ln -s target linkName
 
-** hard link :** ln target linkName
+**hard link :** ln target linkName
 
 ## adduser vs useradd
 
