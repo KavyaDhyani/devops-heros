@@ -1,3 +1,20 @@
+# Terraform Screenshots
+
+![Terraform Screenshot 1](screenshots/Screenshot%202026-09-29%20132139.png)
+
+![Terraform Screenshot 2](screenshots/Screenshot%202026-09-29%20132152.png)
+
+![Terraform Screenshot 3](screenshots/Screenshot%202026-09-29%20132229.png)
+
+![Terraform Screenshot 4](screenshots/Screenshot%202026-09-29%20132243.png)
+
+![Terraform Screenshot 5](screenshots/Screenshot%202026-09-29%20132253.png)
+
+![Terraform Screenshot 6](screenshots/Screenshot%202026-09-29%20132303.png)
+
+![Terraform Screenshot 7](screenshots/Screenshot%202026-09-29%20132311.png)
+
+
 # In-Depth Architectural Guide to Core AWS Cloud Services
 
 ## 1. Amazon Elastic Compute Cloud (EC2)
