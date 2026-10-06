@@ -46,4 +46,29 @@ Kubernetes (K8s) is an orchestration system designed to automate deploying, scal
 
 ---
 
-![Minikube start and status](Screenshot%202026-09-17%20204310.png)
+## minikube basics tutorial
+
+![Minikube Screenshot 1](screenshots/Screenshot%20(16).png)
+
+![Minikube Screenshot 2](screenshots/Screenshot%20(17).png)
+
+![Minikube Screenshot 3](screenshots/Screenshot%20(18).png)
+
+![Minikube Screenshot 4](screenshots/Screenshot%20(19).png)
+
+![Minikube Screenshot 5](screenshots/Screenshot%20(20).png)
+
+![Minikube Screenshot 6](screenshots/Screenshot%20(21).png)
+
+![Minikube Screenshot 7](screenshots/Screenshot%20(22).png)
+
+![Minikube Screenshot 8](screenshots/Screenshot%20(23).png)
+
+![Minikube Screenshot 9](screenshots/Screenshot%20(24).png)
+
+![Minikube Screenshot 10](screenshots/Screenshot%20(25).png)
+
+![Minikube Screenshot 11](screenshots/Screenshot%20(26).png)
+
+![Minikube Screenshot 12](screenshots/Screenshot%20(27).png)
+
