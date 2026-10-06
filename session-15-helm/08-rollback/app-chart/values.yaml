@@ -1,6 +1,5 @@
 replicaCount: 1
+
 image:
   repository: nginx
-  tag: latest
-service:
-  port: 80
+  tag: "1.24"
