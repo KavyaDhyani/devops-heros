@@ -172,3 +172,14 @@ spec:
 ![HPA Screenshot 6](screenshots/Screenshot%202026-10-06%20225635.png)
 
 ![HPA Screenshot 7](screenshots/Screenshot%202026-10-06%20225715.png)
+
+
+---
+
+# Task 3: Mini Project
+
+![Mini Project Screenshot 1](screenshots/Screenshot%202026-10-07%20214850.png)
+
+![Mini Project Screenshot 2](screenshots/Screenshot%202026-10-07%20214113.png)
+
+![Mini Project Screenshot 3](screenshots/Screenshot%202026-10-07%20215840.png)
